@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherAppSoftEngineering</string>
+    <string name="main">Главная</string>
+    <string name="forecast">Прогноз</string>
+    <string name="current_temperature">Текущая температура</string>
+    <string name="weather_now">Погода сейчас</string>
+    <string name="celcius">%1$s °C</string>
+    <string name="give_access_to_location">Дать доступ к местоположению</string>
+    <string name="cold_advice">Очень холодно, лучше приоденьтесь</string>
+    <string name="normal_advice">Терпимо :)</string>
+    <string name="warm_advice">Шорты?</string>
+    <string name="without_permission_not_working">Без разрешения не заработает :(</string>
+</resources>
